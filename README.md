@@ -90,11 +90,11 @@ Most of my work sits at the seam where **SharePoint meets the rest of the busine
 
 | Project | What it is |
 | :--- | :--- |
-| **Bilingual intranet suite (EN/AR)** | White-label SharePoint Online intranet — 20+ SPFx web parts, branded header/footer application customizer, full RTL mirroring, Graph-backed user profile. SPFx 1.22 · React · PnP JS v4 · Fluent UI 8 |
+| **Project timesheet & scheduling platform** | Replacement for a retiring Project Online timesheet capability that keeps planners in the Microsoft Project desktop client. A code-signed ClickOnce VSTO add-in (C# / .NET Framework 4.8) reads open `.mpp` plans over COM and syncs projects, tasks, resources and assignments into Dataverse, then writes approved hours back onto the plan. SPFx web parts handle weekly entry, approvals, finance and dashboards against the Dataverse Web API using `$batch` changesets, alternate keys and server-side paging; a schema CLI owns table creation and migration; Power Automate drives notifications and weekly period rollover. Two-stage approval — line manager, then independent per-project sign-off |
+| **Bilingual intranet suite (EN/AR)** | White-label SharePoint Online intranet — homepage, department-page and admin web parts plus a branded header/footer application customizer. Full RTL mirroring with parallel Arabic columns on every provisioned list, Graph-backed profile, directory, calendar and org chart, and one-click PnP provisioning of every list the solution needs. SPFx 1.22.1 · React 17 · PnP JS v4 · Fluent UI 8 |
+| **Enterprise document management system** | SPFx DMS built on a service-based architecture over PnPjs and Microsoft Graph — first-run setup wizard, taxonomy and automatic document numbering, role-aware approval queues, version history and a full audit trail, plus governance and volume reporting. Roles resolve from SharePoint group membership |
+| **Work order request & approval system** | SPFx solution covering the full work-order lifecycle — request form, dashboard, request detail and an admin console |
 | **Field survey scheduling map** | Google Maps solution for field-survey appointment scheduling — marker clustering, status-coded pins, search and filtering, proximity lookup, route planning via the Directions API |
-| **External API web part** | SPFx web part that fetches and renders external REST API data on a SharePoint page |
-| **Supplier contact directory** | SPFx web part presenting a searchable supplier contact directory |
-| **Copperware marketing site** | Static marketing site for a Lahore copperware maker — vanilla HTML/CSS/JS, no build step, minimal Express host |
 
 ---
 
