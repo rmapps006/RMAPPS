@@ -1,0 +1,115 @@
+<!--
+  Optional: add a contact email badge if you want one published, e.g.
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=26&pause=1200&color=0078D4&center=true&vCenter=true&width=680&height=45&lines=Microsoft+365+%2B+SharePoint+Solutions+Developer;Power+Platform+%7C+Azure+%7C+Copilot+%7C+Power+BI;Turning+business+processes+into+shipped+software" alt="Microsoft 365 and SharePoint Solutions Developer" />
+
+# Rizwan Mahfooz
+
+**Solutions Developer & Architect — Microsoft 365, SharePoint, Power Platform**
+
+<a href="https://rizwanmahfooz.com"><img src="https://img.shields.io/badge/rizwanmahfooz.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/rizwanmahfooz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Qatar-8A1538?style=for-the-badge" alt="Based in Qatar" />
+
+</div>
+
+---
+
+## About
+
+I build the systems that businesses actually run on — intranets, document management, approval workflows, and the reporting layers on top of them — across the Microsoft ecosystem.
+
+Most of my work sits at the seam where **SharePoint meets the rest of the business**: a farm solution that has to keep working, a Power Platform app that replaces a spreadsheet, an integration that quietly moves data between Dataverse, SQL and Microsoft 365 every night. I work end to end — requirements, architecture, build, packaging, deployment, and the PowerShell that provisions it all.
+
+- Currently building enterprise portals and line-of-business solutions at **TechCube365**, based in **Qatar**
+- Comfortable across the full stack: **SharePoint Online (SPFx)** and **on-premises (SSOM farm solutions, 2016 / 2019 / SE)**
+- Increasingly focused on **Copilot** and **AI-assisted business process automation**
+
+---
+
+## What I Build
+
+| Area | What that looks like in practice |
+| :--- | :--- |
+| **Intranets & Portals** | Modern SharePoint Online and classic on-prem intranets — branding, navigation, news, dashboards, multilingual content |
+| **Document Management** | DMS and archive solutions — metadata models, retention, permissions, bulk import and migration utilities |
+| **Business Process Automation** | Request, approval, and workflow systems — security clearances, work orders, timesheets, surveys |
+| **Power Platform** | Model-driven and canvas apps, Power Pages portals, Dataverse schema design, custom connectors |
+| **Reporting & Dashboards** | Power BI and SharePoint-embedded KPI / PPM dashboards for management visibility |
+| **Integration & Tooling** | .NET services and console utilities that sync SharePoint, Dataverse, SQL and third-party systems |
+
+---
+
+## Tech Stack
+
+**Microsoft 365 & SharePoint**
+
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=flat-square)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-2C87F0?style=flat-square&logo=microsoft&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
+![PnP](https://img.shields.io/badge/PnP-1B1F23?style=flat-square&logo=github&logoColor=white)
+
+**Power Platform**
+
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square)
+![Power Pages](https://img.shields.io/badge/Power%20Pages-0B6A0B?style=flat-square)
+![Dataverse](https://img.shields.io/badge/Dataverse-2266E3?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+**Languages & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & Cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Selected Work
+
+> Much of my delivery work is under private client repositories. These are the public ones.
+
+| Repository | What it is |
+| :--- | :--- |
+| [**RMZ.SP.Intranet.ML**](https://github.com/rmapps006/RMZ.SP.Intranet.ML) | **Bilingual (EN/AR) white-label SharePoint Online intranet suite** — 20+ SPFx web parts, branded header/footer application customizer, full RTL mirroring, Graph-backed user profile. SPFx 1.22 · React · PnP JS v4 · Fluent UI 8 |
+| [**poc.google.location.mapping**](https://github.com/rmapps006/poc.google.location.mapping) | Google Maps POC for field-survey appointment scheduling — marker clustering, status-coded pins, search and filtering, proximity lookup, route planning via the Directions API |
+| [**spfx-apidata**](https://github.com/rmapps006/spfx-apidata) | SPFx web part that fetches and renders external REST API data on a SharePoint page |
+| [**spfx-suppliercontacts**](https://github.com/rmapps006/spfx-suppliercontacts) | SPFx web part presenting a searchable supplier contact directory |
+| [**ARC.WebSite**](https://github.com/rmapps006/ARC.WebSite) | Static marketing site for a Lahore copperware maker — vanilla HTML/CSS/JS, no build step, minimal Express host |
+
+---
+
+## Currently
+
+- Building SharePoint-based security clearance and request management systems for enterprise clients
+- Deepening **Copilot** and **Copilot Studio** integration into line-of-business workflows
+- Modernising classic SharePoint farm solutions toward SPFx and Power Platform
+
+---
+
+<div align="center">
+
+**Open to consulting on Microsoft 365, SharePoint and Power Platform delivery.**
+
+<sub>Let's talk — <a href="https://www.linkedin.com/in/rizwanmahfooz/">LinkedIn</a> · <a href="https://rizwanmahfooz.com">rizwanmahfooz.com</a></sub>
+
+</div>
