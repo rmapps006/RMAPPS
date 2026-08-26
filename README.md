@@ -86,15 +86,15 @@ Most of my work sits at the seam where **SharePoint meets the rest of the busine
 
 ## Selected Work
 
-> Much of my delivery work is under private client repositories. These are the public ones.
+> Client delivery work sits in private repositories. This is a representative sample of what I've built.
 
-| Repository | What it is |
+| Project | What it is |
 | :--- | :--- |
-| [**RMZ.SP.Intranet.ML**](https://github.com/rmapps006/RMZ.SP.Intranet.ML) | **Bilingual (EN/AR) white-label SharePoint Online intranet suite** — 20+ SPFx web parts, branded header/footer application customizer, full RTL mirroring, Graph-backed user profile. SPFx 1.22 · React · PnP JS v4 · Fluent UI 8 |
-| [**poc.google.location.mapping**](https://github.com/rmapps006/poc.google.location.mapping) | Google Maps POC for field-survey appointment scheduling — marker clustering, status-coded pins, search and filtering, proximity lookup, route planning via the Directions API |
-| [**spfx-apidata**](https://github.com/rmapps006/spfx-apidata) | SPFx web part that fetches and renders external REST API data on a SharePoint page |
-| [**spfx-suppliercontacts**](https://github.com/rmapps006/spfx-suppliercontacts) | SPFx web part presenting a searchable supplier contact directory |
-| [**ARC.WebSite**](https://github.com/rmapps006/ARC.WebSite) | Static marketing site for a Lahore copperware maker — vanilla HTML/CSS/JS, no build step, minimal Express host |
+| **Bilingual intranet suite (EN/AR)** | White-label SharePoint Online intranet — 20+ SPFx web parts, branded header/footer application customizer, full RTL mirroring, Graph-backed user profile. SPFx 1.22 · React · PnP JS v4 · Fluent UI 8 |
+| **Field survey scheduling map** | Google Maps solution for field-survey appointment scheduling — marker clustering, status-coded pins, search and filtering, proximity lookup, route planning via the Directions API |
+| **External API web part** | SPFx web part that fetches and renders external REST API data on a SharePoint page |
+| **Supplier contact directory** | SPFx web part presenting a searchable supplier contact directory |
+| **Copperware marketing site** | Static marketing site for a Lahore copperware maker — vanilla HTML/CSS/JS, no build step, minimal Express host |
 
 ---
 
